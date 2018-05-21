@@ -13,4 +13,6 @@ It was used for its development Java 8 swing. To store data it was used SQLite d
 ![ams3-insert-apartment](https://user-images.githubusercontent.com/37752740/40325207-9578f896-5d43-11e8-9cb5-48952d628aeb.gif)
 
 4.) Insert Expenses for a specific month for an apartments building
+![ams4-insert-expenses](https://user-images.githubusercontent.com/37752740/40325349-0aab4f88-5d44-11e8-81b5-4e718f44da77.gif)
+
 5.) Compute shared expenses of an apartment
